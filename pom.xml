@@ -9,8 +9,8 @@
     <version>2.2.0</version>
 
     <properties>
-        <hadoop.version>2.6.0-cdh5.4.2</hadoop.version>
-        <flume.version>1.5.0-cdh5.4.2</flume.version>
+        <hadoop.version>2.6.0-cdh5.4.9</hadoop.version>
+        <flume.version>1.5.0-cdh5.4.9</flume.version>
         <opentsdb.version>2.2.0</opentsdb.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
